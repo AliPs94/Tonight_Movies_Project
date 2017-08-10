@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/mba/.android/build-cache/ffa66e2ca3d3b7a62f3e226c7be7d32c48735070/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/mba/Documents/projects/Tonight_Movies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_94a33db51a70bae530e6c7f25540f455481c2291/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mba/.android/build-cache/5ec6ed11e0e2f671e19ac4ebbc94848b64ea06e1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/mba/Documents/projects/Tonight_Movies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fb056d4a0ee7aafcf7b9da6b82e53d88f308fa89/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mba/.android/build-cache/61e3d09ad4ceda78013e0a5f04828503eff41bd2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Users/mba/Documents/projects/Tonight_Movies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_90c46cbe2b8b4c7de9918eec6131c8eb2bac98f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mba/.android/build-cache/be190776253a5abdc49fc41a74d1436360a1aaab/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/mba/Documents/projects/Tonight_Movies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_622c4e165435b6738d7f2586f8f90d99818f7dda/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mba/.android/build-cache/5069428ad4c9e83781be904147fddefc7400a8b4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/mba/Documents/projects/Tonight_Movies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4d170cec67c3f331a5f5e51f7eeb327b565822c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mba/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/mba/Documents/projects/Tonight_Movies/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_83a49b661217afcfb28fb3a10f84cd829b6980c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mba/.android/build-cache/3b7ed395802eb0c8808cb34655426acf1c6f86ec/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/mba/Documents/projects/Tonight_Movies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_46df17cc75b5fb6e44d2ccbb658ada3839dfc299/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mba/Documents/projects/Tonight_Movies/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/mba/Documents/projects/Tonight_Movies/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_1d3500e44950fda6a90367e79d5e667cf64e3933/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mba/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/mba/Documents/projects/Tonight_Movies/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_a954f989dc144f833f09b9583ac28061c68f5292/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mba/.android/build-cache/40c7333c8c68da635c7a2c2d82dc5489bfac22f4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/mba/Documents/projects/Tonight_Movies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dedb4ab4c4868f3fb614af22c06ba8c310117dfb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mba/.android/build-cache/b9fb721a5d20b33a6484b39052430ff871b3088e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/mba/Documents/projects/Tonight_Movies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_813b7eeb50c5a62d398da75b4d25d8fc79b1a296/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mba/Documents/projects/Tonight_Movies/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d432e65c080b77f79e94b9acf6c231e08f0fff2b">
+        <dex dex="/Users/mba/Documents/projects/Tonight_Movies/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3c9a1be2600c3831069d88d37eabfa18e0cea68d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mba/.android/build-cache/3f84113e759a15139dd500f69c9f98fde81d36ed/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/mba/Documents/projects/Tonight_Movies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d98b2632af5ed73731a2295f9029b9de73f90647/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mba/.android/build-cache/b5433614b09af614ba5821de5fce2c0992662b3a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/mba/Documents/projects/Tonight_Movies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_943441c734cf22f28bcba2895ff54a12a9ffc029/classes.dex" />
+    </item>
+
+</items>
